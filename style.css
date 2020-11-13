@@ -202,7 +202,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: rgb(3, 1, 2);
+    color: #fff;
     background: none;
 }
 
